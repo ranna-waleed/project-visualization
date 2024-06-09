@@ -1,0 +1,25 @@
+Row ID,School,Program,Students,Expenses,Revenue,Classrooms,Labs,Faculty members
+1,Computer Science,Artificial Intelligence,300,600000,150000,50,30,20
+2,Computer Science,Information Technology,60,680000,30000,50,20,10
+3,Computer Science,Software Engineering,100,900000,89000,70,10,15
+4,Science,Physics,150,750000,100000,50,25,20
+5,Science,Chemistry,200,95000,289000,40,20,15
+6,Engineering,Electrical Engineering,100,850000,250000,30,15,24
+7,Engineering,Mechanical Engineering,250,95000,800000,20,20,30
+8,Business,Finance,300,100000,950000,30,19,15
+9,Business,Marketing,50,100000,250000,20,20,13
+10,Science,Biomedical,200,80000,850000,50,30,24
+11,Science,Nano Science,100,75000,20000,30,20,31
+12,Engineering,Areospace,150,110000,650000,70,25,10
+13,Engineering,Communications and information,80,120000,950000,40,13,7
+14,Business,Actuarial Analysis,170,90000,100000,20,20,9
+15,Business,Risk Management,190,90000,280000,40,30,10
+16,Science,Materials science,200,100000,400000,30,25,23
+17,Engineering,Environmental,300,91000,830000,20,20,12
+18,Engineering,Nanotechnology,230,88000,289000,60,20,22
+19,Business,Operations,120,100000,350000,70,30,9
+20,Business,Supply Chain,240,98000,540000,44,15,10
+21,Engineering,Renewable,100,120000,999000,46,20,22
+22,Engineering,Energy and Bioprocess,260,80000,999999,39,25,12
+23,Business,Innovation Management,300,75000,199999,60,35,16
+24,Business,Technology Management,50,93000,200000,90,15,20
